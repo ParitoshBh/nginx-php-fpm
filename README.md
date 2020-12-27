@@ -1,5 +1,5 @@
-![docker hub](https://img.shields.io/docker/pulls/richarvey/nginx-php-fpm.svg?style=flat-square)
-![docker hub](https://img.shields.io/docker/stars/richarvey/nginx-php-fpm.svg?style=flat-square)
+![docker hub](https://img.shields.io/docker/pulls/paritoshbh/nginx-php-fpm.svg?style=flat-square)
+![docker hub](https://img.shields.io/docker/stars/paritoshbh/nginx-php-fpm.svg?style=flat-square)
 
 This is a derivative and strips out following from image,
 - lua module
